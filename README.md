@@ -1,0 +1,1 @@
+# Enerjisa---Nitelikli-Ka-ak-Tahminleme-Projesi
