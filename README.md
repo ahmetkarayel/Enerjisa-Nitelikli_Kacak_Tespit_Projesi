@@ -5,6 +5,7 @@ Projenin amacı tesisata bağlı, nitelikli kaçak yapan müşterileri tespit et
   
   Proje Ekibi: 
 
+- https://github.com/ahmetkarayel
 - https://github.com/aleynaer
 - https://github.com/cimengizem
 - https://github.com/kagan-gungor
